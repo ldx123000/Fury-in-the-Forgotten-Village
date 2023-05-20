@@ -24,3 +24,7 @@
 
 2. Put the folders like **Content/Megascans**
 3. remember to add **fog.uasset**(see the instruction in folder `Scene`)
+
+
+
+Our game is shown on 22nd-steps: https://uvents.nus.edu.sg/event/22nd-steps/module/CS3247/project/7
